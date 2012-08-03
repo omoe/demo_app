@@ -1,3 +1,5 @@
 --- 
-open_files: []
-
+open_files: 
+  - Gemfile
+  - config/routes.rb
+  - app/controllers/users_controller.rb
